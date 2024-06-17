@@ -1,0 +1,89 @@
+	.title-section {
+		text-align: center;
+		margin-top: 40px;
+		font-weight: bolder;
+		font-size: 20px;
+	
+	}
+
+	.hello-title {
+		color: #4db5ff;
+		font-style: italic;
+		font-weight: bolder;
+	}
+
+	.name-title {
+		color: #4db5ff;
+		font-weight: bolder;
+		font-size: 30px;
+
+	}
+
+	.work-title {
+		color: #4db5ff;
+		font-weight: bolder;
+		margin-top: 20px;
+		font-style: italic;
+	}
+
+	.CV {
+		width: 150px;
+		height: 50px;
+		border: none;
+		color: #fff;
+		background-color: gray;
+		border: 2px solid #1f1f38;
+		border-radius: 15px;
+		margin: 10px;
+		font-size: 18px;
+		margin-top: 20px;
+		font-weight: bold;
+
+	}
+
+	.chat {
+		width: 230px;
+		height: 50px;
+		border: none;
+		color: #fff;
+		background-color: gray;
+		border: 2px solid #1f1f38;
+		border-radius: 15px;
+		margin: 10px;
+		font-size: 18px;
+		margin-top: 20px;
+		font-weight: bold;
+
+	}
+
+	/* .img-profile {
+		font-style: italic;
+		width: 300px;
+		height: 300px;
+		border-radius: 100px;
+	} */
+
+	.about-me {
+		text-align: center;
+		margin-top: 20px;
+		color: #4db5ff;
+
+		
+	}
+	.cardslist{
+		display: flex;
+		position: absolute;
+		top:85%;
+		font-style: italic;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.about_card{
+		background-color: gray;
+		margin: 10px;
+		color: #fff;
+		padding: 20px;
+		font-weight: bolder;
+		font-size: 20px;
+		border-radius: 20px;
+	}
