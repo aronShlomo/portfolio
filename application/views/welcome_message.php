@@ -199,8 +199,11 @@
 			<p class="work-title">FULL STACK PHP DEVELOPER</p>
 
 			<div class="btn">
+
 				<input class="CV btn btn-primary" type="button" value="Download CV">
+
 				<input class="chat btn btn-primary" type="button" value="Lets Chat">
+				
 			</div>
 		</div>
 
@@ -219,13 +222,11 @@
 				<li>Angular</li>
 				<li>freelance</li>
 			</ul>
-
 			<h5 class="title-experiences">Education</h5>
 			<ul>
 				<li>Computer Science</li>
 				<li>Bachelor In Talmudic lew</li>
 			</ul>
-
 			<h5 class="title-experiences">Projects</h5>
 			<ul>
 				<li>3 Major Web Apps</li>
@@ -235,7 +236,7 @@
 
 
 
-		<p class="describe">I am a full-stack php web developer proficient in HTML, CSS, JavaScript, React.js, RESTful APIs,
+		<p class="describe">I am a full-stack php web developer proficient in CodeIgniter framework HTML, CSS, JavaScript, React.js, RESTful APIs,
 			Git, and Git-Hub. I also have more than 4 years of experience studying, researching, writing code,
 			I am curious, love to create , and I love to learn anything technology.
 			I am passionate about developing the web and harnessing its power to impact our daily lives for the better.</p>
@@ -259,6 +260,7 @@
 
 				<ul>
 					<li>PHP</li>
+					<li>CodeIgniter</li>
 					<li>Java</li>
 					<li>Git</li>
 					<li>Mysql</li>
